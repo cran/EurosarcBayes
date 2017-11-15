@@ -1,9 +1,9 @@
-eb4303c64a52d3bde41ff177e1b46599 *DESCRIPTION
+b69fcc663eb95f2b0f3a4e320f90abad *DESCRIPTION
 10c0ea7544fffe818bd86fabd703dab6 *NAMESPACE
 d3a4e3ff2f1206e7ee07a3753f746f2b *R/0_setClasses_v1.0.R
 f5924a8641eec2d4083540a5ae623753 *R/bayes_binom_one_postlike_nstage_v1.0.R
 45d77a9821e9b5613b3f97be4f3d1ef1 *R/bayes_binom_one_postprob_nstage_v1.0.R
-b487a8129243896d6e5260ee56a36db2 *R/bayes_binom_one_postprob_onestage_v1.0.R
+fcf2e74a76e088d5184342035267a77a *R/bayes_binom_one_postprob_onestage_v2.0.R
 c52b26eba777f30a2a0f211f7bc54397 *R/bayes_binom_two_loss_v2.2.R
 22640934625ac892cad20e9b59db944b *R/bayes_binom_two_postlike_v2.2.R
 9565364a55ea09b0e3e1ed20088b8ad8 *R/bayes_binom_two_postprob_v2.2.R
@@ -13,11 +13,11 @@ af8f0395924cce17b85aad43bd28619f *R/binom_one_power_v1.0.R
 170f116842c0b2d123095f0142fd9071 *R/freq_binom_one_landemets_v1.0.R
 1b27e56ebd85958649a38239b99822b4 *R/freq_binom_one_onestage_v1.0.R
 11709fc3241d10462948405b690d853b *R/freq_binom_one_simons_twostage_v.2.0.R
-91a03560c5e6763f67b66dec104a19f4 *R/freq_binom_two_bryantday_twostage_v1.0.R
+78d1b24e14bf36cb26423b6f6d619fc3 *R/freq_binom_two_bryantday_twostage_v1.0.R
 44bf24f25197bf9bfa05985636fc856b *R/freq_binom_two_singlestage_v1.0.R
 a640ddc599675aaedf1631bb78deb198 *R/plot.trialDesign_binom_one_v1.0.R
 c926e8b99efc72837fff62afe732cff0 *R/plot.trialDesign_binom_two_v1.0.R
-34c312cea3d2df08b739a4817ad1d0ff *R/print.trialDesign_binom_one_v1.0.R
+a1a42e2a8bc32f8579e4792fb5542bb6 *R/print.trialDesign_binom_one_v1.0.R
 91d4e3f07c63f615b1605ccd1ee29124 *R/print.trialDesign_binom_two_v1.1.R
 8e35a03d305514e769ec0a7026d4d901 *R/properties_v2.0.R
 47ffe77af89b9c948e4a268cdb964caf *R/shiny_wrappers_v.1.0.R

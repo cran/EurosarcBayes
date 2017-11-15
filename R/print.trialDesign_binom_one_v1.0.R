@@ -21,6 +21,7 @@
 
 }
 
+#' @exportMethod
 setMethod(f="print",signature=c(x="trialDesign_binom_one"),definition=.print.trialDesign_binom_one)
 
 .show.trialDesign_binom_one=function(object){
